@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Load the dataset
 data = pd.read_csv('Nairobi Office Price Ex.csv')
 
 # Extract the feature (SIZE) and target (PRICE)
